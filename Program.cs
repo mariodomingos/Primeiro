@@ -6,7 +6,17 @@ namespace PrimeiroGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+        //Declaração das variaveis para guardar valores
+        //que o usuario entrará
+        double valor1, valor2, resultado;
+        Console.WriteLine("digite um valor");
+        valor1 = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("Entre com outro valor")
+        valor2 = double.Parse (Console.ReadLine());
+        
+        
+        ))
         }
     }
 }
