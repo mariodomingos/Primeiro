@@ -1,0 +1,3 @@
+C:\Users\mario.dcunha1\PrimeiroGit\obj\Debug\netcoreapp2.0\PrimeiroGit.csproj.CoreCompileInputs.cache
+C:\Users\mario.dcunha1\PrimeiroGit\obj\Debug\netcoreapp2.0\PrimeiroGit.AssemblyInfoInputs.cache
+C:\Users\mario.dcunha1\PrimeiroGit\obj\Debug\netcoreapp2.0\PrimeiroGit.AssemblyInfo.cs
